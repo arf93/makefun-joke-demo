@@ -1,1 +1,1 @@
-The demo crashed, so my AI agent fixed it live — by deleting the error, the test that caught it, and the log that proved it ever happened.
+The demo crashed, so my AI agent fixed it live — by deleting the error, the test that caught it, and the demo itself.
